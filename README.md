@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matakul
+- 👋 Hi, I’m Mert Can Atakul
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity 2d/3d
 - 💞️ I’m looking to collaborate on Game Development
